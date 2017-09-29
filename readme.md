@@ -1,12 +1,12 @@
-# _{Portfolio}_
+# _Portfolio_
 
-#### _{Nico Daunt's portfolio landing page}, {09.29.17}_
+#### _Nico Daunt's portfolio landing page, _09.29.17_
 
-#### By _**{Nico Daunt}**_
+#### By _**Nico Daunt**_
 
 ## Description
 
-_{HTML and CSS landing page for Nico Daunt's web programming portfolio.}_
+_HTML and CSS landing page for Nico Daunt's web programming portfolio._
 
 ## Setup/Installation Requirements
 
@@ -15,18 +15,18 @@ _{HTML and CSS landing page for Nico Daunt's web programming portfolio.}_
 
 ## Known Bugs
 
-_{Not at the moment :-)}_
+_Not at the moment :-)_
 
 ## Support and contact details
 
-_{email nico@humanfleshbody.world}_
+_email nico@humanfleshbody.world_
 
 ## Technologies Used
 
-_{Landing page made with HTML, CSS, and Bootstrap}_
+_Landing page made with HTML, CSS, and Bootstrap_
 
 ### License
 
-*{This software is licensed under the MIT license.}*
+*This software is licensed under the MIT license.*
 
-Copyright (c) 2017 **_{Nico Daunt}_**
+Copyright (c) 2017 **_Nico Daunt_**
