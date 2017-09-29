@@ -1,6 +1,6 @@
 # _Portfolio_
 
-#### _Nico Daunt's portfolio landing page, _09.29.17_
+#### _Nico Daunt's portfolio landing page, 09.29.17_
 
 #### By _**Nico Daunt**_
 
