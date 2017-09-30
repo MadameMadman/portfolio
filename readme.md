@@ -6,7 +6,7 @@
 
 ## Description
 
-_HTML and CSS landing page for Nico Daunt's web programming portfolio._
+_[HTML and CSS landing page for Nico Daunt's web programming portfolio.](https://madamemadman.github.io/portfolio/)_
 
 ## Setup/Installation Requirements
 
