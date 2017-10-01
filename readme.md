@@ -15,7 +15,7 @@ _[HTML and CSS landing page for Nico Daunt's web programming portfolio.](https:/
 
 ## Known Bugs
 
-_Not at the moment :-)_
+_minor alignment issue due to amateur knowledge of CSS and Html. Links to current work still need to be added._
 
 ## Support and contact details
 
