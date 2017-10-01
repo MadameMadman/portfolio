@@ -47,3 +47,100 @@ body {
   box-shadow: 5px 5px 0px #ede502;
   margin: .3rem;
 }
+
+#footer-social img {
+  box-shadow: 5px 5px 0px #121afd;
+  filter: invert(100%);
+  display: flex;
+  flex-wrap: wrap;
+  margin: .2rem;
+  height: 70%;
+    width: 70%;
+    padding: .1rem;
+}
+
+
+#footer-social ul {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#footer-social li {
+    display: inline-block;
+    vertical-align: top;
+    padding: .2rem;
+}
+
+#contact img {
+  filter: invert(100%);
+  display: flex;
+  flex-wrap: wrap;
+  margin: .2rem;
+  height: 20%;
+    width: 20%;
+    padding: .1rem;
+}
+
+
+
+
+.projects {
+    margin-right: auto;
+    margin-left: 0px;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+    border-radius: 3rem;
+    color: #DDA0DD;
+  }
+
+  .projects img {
+display:  inline-flex;
+border-radius: 3rem;
+width: 100%    !important;
+height: 13rem   !important;
+    }
+
+video {
+      width: 100%    !important;
+      height: 13rem   !important;
+      border-radius: 6rem;
+    }
+
+    #list, #list li {
+    	margin: 0;
+    	padding: 0;
+    }
+    #list li {
+    	list-style: none;
+    }
+    #list .li1 {
+    	margin-left: 2em;
+    }
+    #list .li2 {
+    	margin-left: 4em;
+    }
+    #list .li3 {
+    	margin-left: 6em;
+    }
+
+    #list .li4 {
+    	margin-left: 8em;
+    }
+    #list .li5 {
+    	margin-left: 10em;
+    }
+    #list .li6 {
+    	margin-left: 12em;
+    }
+
+.img-fluid {
+  border-radius: 3rem;
+  padding: .5rem;
+  height: 20rem;
+}
+
+.jumbotron h1 {
+  color: #DDA0DD;
+
+}
